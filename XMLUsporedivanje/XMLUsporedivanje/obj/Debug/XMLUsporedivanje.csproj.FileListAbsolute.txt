@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\XMLUsporedivanje\XMLUsporedivanje\bin\Debug\XMLUsporedivanje.exe.config
+C:\Users\HP\source\repos\XMLUsporedivanje\XMLUsporedivanje\bin\Debug\XMLUsporedivanje.exe
+C:\Users\HP\source\repos\XMLUsporedivanje\XMLUsporedivanje\bin\Debug\XMLUsporedivanje.pdb
+C:\Users\HP\source\repos\XMLUsporedivanje\XMLUsporedivanje\obj\Debug\XMLUsporedivanje.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\XMLUsporedivanje\XMLUsporedivanje\obj\Debug\XMLUsporedivanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\XMLUsporedivanje\XMLUsporedivanje\obj\Debug\XMLUsporedivanje.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\XMLUsporedivanje\XMLUsporedivanje\obj\Debug\XMLUsporedivanje.exe
+C:\Users\HP\source\repos\XMLUsporedivanje\XMLUsporedivanje\obj\Debug\XMLUsporedivanje.pdb
